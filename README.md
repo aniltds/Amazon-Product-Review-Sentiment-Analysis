@@ -1,6 +1,6 @@
 The available data is of consumer reviews for different Amazon products (Alexa, Kindle, Fire TV Stick)
 
-The major challenge is to predict the sentiment from large imbalanced dataset.
+Major challenge is to predict the sentiment from large imbalanced dataset.
 
 Main tasks performed in this project are 
 
